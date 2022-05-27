@@ -10,6 +10,10 @@ Moody
 4. Tiara Kesuma Putri
 
 3G+1M
+1. Agustina Asmoro Putri
+2. Alfina Syaharani
+3. Arifah Amelia
+4. Arina Putri Tanca
 
 Mood Graphia
 1. Devi Luthfitaningrum 19/440305/TK/48632
