@@ -1,10 +1,10 @@
 # Moody
 
-Aplikasi web moody untuk 
+Aplikasi web moody untuk menganalisis mood seseorang dan memberikan rekomendasi _healing_
 
 
 Moody
-1. Diah Ayu Widyati 19/444046/TK/49242
+1. Diah Ayu Widyati 
 2. Fauziah Uswatun Hasanah
 3. Pipiet Setiowati
 4. Tiara Kesuma Putri
@@ -16,6 +16,6 @@ Moody
 4. Arina Putri Tanca
 
 Mood Graphia
-1. Devi Luthfitaningrum 19/440305/TK/48632
+1. Devi Luthfitaningrum 
 2. Marthasya Mumtahanah M
 3. Tsalis Amalia
