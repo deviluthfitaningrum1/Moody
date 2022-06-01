@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+	margin: 0;
+}
+
+#nav{
+    position: sticky;
+    top: 0;
+    z-index: 1001!important;
+}
+
+.navbar{
+    background-color: #fff !important; 
+}
+
+.navbar-nav li{
+    font-weight: bold;
+}
+
+.navbar-nav ul li{
+    padding: 0 10px;
+}
+
+.navbar-nav li a{
+    color: #A090A3;
+    font-weight: bold;
+}
+
+
+/* journal */
+#journal{
+    position: relative;
+    background-color: #fff; 
+    padding-top: 2%;
+}
+
+.bg-redlight{
+    background-color: #FFEFEF;
+}
+
+.btn-redlight{
+    font-weight:600;
+    color: rgb(0, 0, 0);
+    background-color: #FDD0D0;
+    border-color: #FDD0D0;
+}
+
+.btn-redlight:hover {
+    color: rgb(0, 0, 0);
+    background-color: #f9bdbd;
+    border-color: #f9bdbd;
+}
+
+/* write */
+#write{
+    position: relative;
+    background-color: #fff; 
+    padding-top: 5%;
+}
