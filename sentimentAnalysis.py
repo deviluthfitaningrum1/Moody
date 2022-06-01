@@ -15,8 +15,8 @@ def sample_analyze_sentiment():
     from azure.core.credentials import AzureKeyCredential
     from azure.ai.textanalytics import TextAnalyticsClient
 
-    endpoint = os.environ["AZURE_LANGUAGE_ENDPOINT"]
-    key = os.environ["AZURE_LANGUAGE_KEY"]
+    endpoint = os.environ["https://sentimentgraphia.cognitiveservices.azure.com/"]
+    key = os.environ["b3109967592c4dbca8ee93830c9a9da9"]
 
     text_analytics_client = TextAnalyticsClient(endpoint=endpoint, credential=AzureKeyCredential(key))
 
