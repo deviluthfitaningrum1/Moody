@@ -1,11 +1,21 @@
-# Moody
+Aplikasi web moody untuk menganalisis mood seseorang dan memberikan rekomendasi healing
 
-Aplikasi web moody untuk 
+#Moody
 
+Diah Ayu Widyati
+Fauziah Uswatun Hasanah
+Pipiet Setiowati
+Tiara Kesuma Putri
 
-Moody
+#3G+1M
 
-3G+1M
+Agustina Asmoro Putri
+Alfina Syaharani
+Arifah Amelia
+Arina Putri Tanca
 
-Mood Graphia
-1. Devi Luthfitaningrum 19/440305/TK/48632
+#Mood Graphia
+
+Devi Luthfitaningrum
+Marthasya Mumtahanah M
+Tsalis Amalia
