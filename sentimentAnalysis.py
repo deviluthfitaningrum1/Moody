@@ -18,7 +18,7 @@ def sample_analyze_sentiment():
     endpoint = os.environ["https://sentimentgraphia.cognitiveservices.azure.com/"]
     key = os.environ["b3109967592c4dbca8ee93830c9a9da9"]
 
-    text_analytics_client = TextAnalyticsClient(endpoint=endpoint, credential=AzureKeyCredential(key))
+    text_analytics_client = TextAnalyticsClient(endpoint=https://sentimentgraphia.cognitiveservices.azure.com/, credential=AzureKeyCredential(b3109967592c4dbca8ee93830c9a9da9))
 
     documents = [
         """I had the best day of my life. I decided to go sky-diving and it made me appreciate my whole life so much more.
