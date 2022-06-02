@@ -1,5 +1,8 @@
 import os
 
+def translator(text):
+    text = GoogleTranslator(source='id', target='en').translate(text)
+    return text
 
 def sample_analyze_sentiment():
     print(
